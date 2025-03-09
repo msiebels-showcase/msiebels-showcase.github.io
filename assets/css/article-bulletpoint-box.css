@@ -1,0 +1,11 @@
+.hervorgehoben {
+    background-color: #f0f8ff; /* Heller Hintergrund */
+    border-radius: 10px; /* Abgerundete Ecken */
+    padding: 20px; /* Innenabstand */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Schatteneffekt */
+    list-style-type: disc; /* Runde Punkte */
+}
+
+.hervorgehoben li {
+    margin-bottom: 10px; /* Abstand zwischen den Listenelementen */
+}
