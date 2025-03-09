@@ -1,4 +1,6 @@
-Picture Size from "picXX": 353 x 326
+License information: Adaptation of the original work by Phantom by HTML5 UP, modification made by msiebels.
+
+Sidenotes: Picture Size from "picXX": 353 x 326
 
 - - -
 
